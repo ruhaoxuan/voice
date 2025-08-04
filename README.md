@@ -18,3 +18,12 @@ uv pip install sherpa-onnx
 
 test-wav 文件夹下的内容都测试过了， 大致没什么问题。
 
+---
+
+# Version 1
+
+调整了一下文件夹目录结构，增加了 FunASR 的简单安装和测试。
+
+[官方仓库地址](https://github.com/modelscope/FunASR)
+
+基于 README.md 简单测试了一下命令行测试非流式的 ASR。
